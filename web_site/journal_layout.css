@@ -27,6 +27,7 @@ body
 	/*scine the link is not working i give lightblue as background color*/
 	background-color: lightblue;
 }
+
 #sidebar
 {
 	margin-top: 10px;
@@ -39,4 +40,7 @@ body
 .pic
 {
 	float: right;
+}
+*:hover
+{background-color:yellow;	
 }
