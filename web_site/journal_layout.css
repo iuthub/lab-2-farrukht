@@ -10,6 +10,11 @@
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
+	overflow: hidden;
+}
+#header
+{
+	text-align: right;
 }
 body
 {
@@ -18,4 +23,8 @@ body
 	background-image: url(http://www.cs.washington.edu/education/courses/190m/09sp/labs/2%E2%80%90journal/images/background.gif);
 	/*scine the link is not working i give lightblue as background color*/
 	background-color: lightblue;
+}
+.pic
+{
+	float: right;
 }
